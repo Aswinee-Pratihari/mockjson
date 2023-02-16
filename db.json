@@ -24,19 +24,5 @@
     "location": "Cardiff",
     "distance": "45-minute drive"
   },
-  {
-    "img": "https://links.papareact.com/ynx",
-    "location": "Birkenhead",
-    "distance": "4.5-hour drive"
-  },
-  {
-    "img": "https://links.papareact.com/kji",
-    "location": "Newquay",
-    "distance": "6-hour drive"
-  },
-  {
-    "img": "https://links.papareact.com/41m",
-    "location": "Hove",
-    "distance": "2-hour drive"
-  }
+ 
 ]
